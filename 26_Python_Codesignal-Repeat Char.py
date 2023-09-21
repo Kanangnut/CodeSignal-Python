@@ -30,3 +30,5 @@ A string containing information about lst.
 
 Solution:
 def solution(ch, n): return ch*n
+
+
